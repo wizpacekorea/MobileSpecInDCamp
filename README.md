@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/MadeBy-Wizpace-328D1B0.svg)
+![](https://img.shields.io/badge/MadeBy-Wizpace-28D1B0.svg)
 
 # MobileSpecInDCamp
 
