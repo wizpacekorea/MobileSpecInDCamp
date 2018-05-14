@@ -170,19 +170,19 @@ Device | Resolutions | Ratio | OS(Version)
 Aspect Ratio | Resolutions | Example Devices
 --- | --- | ---
 4:3 | 1024x768 | iPad 1, iPad 2
-- | 2048x1536 | iPad 3
+&nbsp; | 2048x1536 | iPad 3
 3:2 | 480x320 | iPhone 3GS and lower, Android devices
-- | 960x640 | iPhone 4, iPhone 4S
+&nbsp; | 960x640 | iPhone 4, iPhone 4S
 16:10 | 800x480 | Android devices, WindowsPhone7
-- | 1280x800 | Android tablets like Google Nexus 7, Samsung Galaxy Tab 10.1, Motorola Xoom, Asus Eee Pad Transformer
+&nbsp; | 1280x800 | Android tablets like Google Nexus 7, Samsung Galaxy Tab 10.1, Motorola Xoom, Asus Eee Pad Transformer
 17:10 | 1024x600 | Android tablets like Samsung Galaxy Tab 7
 16:9 | 640x360 | Symbian3 devices like Nokia C7
-- | 854x480 | Android devices
-- | 960x540 | [갤럭시 메가](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%A9%94%EA%B0%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80), 
-- | 1136x640 | iPhone 5
-- | 1280x720 | [옵티머스 LTE2](https://namu.wiki/w/%EC%98%B5%ED%8B%B0%EB%A8%B8%EC%8A%A4%20LTE%20II), [베가 레이서 2](https://namu.wiki/w/%EB%B2%A0%EA%B0%80%20%EB%A0%88%EC%9D%B4%EC%84%9C%202)
-- | 1334x750 | [아이폰 6](https://namu.wiki/w/iPhone%206), [아이폰 7](https://namu.wiki/w/iPhone%207)
-- | 1920x1080 | [갤럭시 S4 LTE-A](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S4), [갤럭시 S5](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S5), [갤럭시 S5 광대역 LTE](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S5), [갤럭시 JS](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20J), [LG G2](https://namu.wiki/w/LG%20G2), [LG G pro2](https://namu.wiki/w/LG%20G%20Pro%202), [베가 아이언 2](https://namu.wiki/w/%EB%B2%A0%EA%B0%80%20%EC%95%84%EC%9D%B4%EC%96%B8%202), [구글 Pixel](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80%28%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%29?from=%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80#s-2.1), [샤오미 MI 5](https://namu.wiki/w/%EC%83%A4%EC%98%A4%EB%AF%B8%20Mi%20%EC%8B%9C%EB%A6%AC%EC%A6%88#s-2.5.1), [루나폰](https://namu.wiki/w/TG%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88%20Luna), [아이폰 6 Plus](https://namu.wiki/w/iPhone%206%20Plus), [아이폰 7 Plus](https://namu.wiki/w/iPhone%207%20Plus)
-- | 2560x1440 | [갤럭시 노트 4](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%85%B8%ED%8A%B84), [갤럭시 노트 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%85%B8%ED%8A%B8%20%EC%97%A3%EC%A7%80), [갤럭시 S6](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S6), [갤럭시 S6 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S6%20%EC%97%A3%EC%A7%80), [갤럭시 S7](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S7), [갤럭시 S7 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S7%20%EC%97%A3%EC%A7%80), [갤럭시 S8](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S8), [LG G3](https://namu.wiki/w/LG%20G3), [LG G4](https://namu.wiki/w/LG%20G4), [LG V20](https://namu.wiki/w/LG%20V20), [구글 Pixel XL](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80%28%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%29?from=%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20XL#s-2.2), [넥서스 6P](https://namu.wiki/w/%EB%84%A5%EC%84%9C%EC%8A%A4%206P)
+&nbsp; | 854x480 | Android devices
+&nbsp; | 960x540 | [갤럭시 메가](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%A9%94%EA%B0%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80), 
+&nbsp; | 1136x640 | iPhone 5
+&nbsp; | 1280x720 | [옵티머스 LTE2](https://namu.wiki/w/%EC%98%B5%ED%8B%B0%EB%A8%B8%EC%8A%A4%20LTE%20II), [베가 레이서 2](https://namu.wiki/w/%EB%B2%A0%EA%B0%80%20%EB%A0%88%EC%9D%B4%EC%84%9C%202)
+&nbsp; | 1334x750 | [아이폰 6](https://namu.wiki/w/iPhone%206), [아이폰 7](https://namu.wiki/w/iPhone%207)
+&nbsp; | 1920x1080 | [갤럭시 S4 LTE-A](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S4), [갤럭시 S5](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S5), [갤럭시 S5 광대역 LTE](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S5), [갤럭시 JS](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20J), [LG G2](https://namu.wiki/w/LG%20G2), [LG G pro2](https://namu.wiki/w/LG%20G%20Pro%202), [베가 아이언 2](https://namu.wiki/w/%EB%B2%A0%EA%B0%80%20%EC%95%84%EC%9D%B4%EC%96%B8%202), [구글 Pixel](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80%28%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%29?from=%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80#s-2.1), [샤오미 MI 5](https://namu.wiki/w/%EC%83%A4%EC%98%A4%EB%AF%B8%20Mi%20%EC%8B%9C%EB%A6%AC%EC%A6%88#s-2.5.1), [루나폰](https://namu.wiki/w/TG%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88%20Luna), [아이폰 6 Plus](https://namu.wiki/w/iPhone%206%20Plus), [아이폰 7 Plus](https://namu.wiki/w/iPhone%207%20Plus)
+&nbsp; | 2560x1440 | [갤럭시 노트 4](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%85%B8%ED%8A%B84), [갤럭시 노트 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%85%B8%ED%8A%B8%20%EC%97%A3%EC%A7%80), [갤럭시 S6](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S6), [갤럭시 S6 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S6%20%EC%97%A3%EC%A7%80), [갤럭시 S7](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S7), [갤럭시 S7 엣지](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S7%20%EC%97%A3%EC%A7%80), [갤럭시 S8](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S8), [LG G3](https://namu.wiki/w/LG%20G3), [LG G4](https://namu.wiki/w/LG%20G4), [LG V20](https://namu.wiki/w/LG%20V20), [구글 Pixel XL](https://namu.wiki/w/%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20%EC%8B%9C%EB%A6%AC%EC%A6%88/1%EC%84%B8%EB%8C%80%28%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%29?from=%EA%B5%AC%EA%B8%80%20%ED%94%BD%EC%85%80%20XL#s-2.2), [넥서스 6P](https://namu.wiki/w/%EB%84%A5%EC%84%9C%EC%8A%A4%206P)
 18.5:9 | 2220x1080 | [갤럭시 A8](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20A8%282018%29)
-- | 2960x1440 | [갤럭시 S8 PLUS](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S8%2B)
+&nbsp; | 2960x1440 | [갤럭시 S8 PLUS](https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20S8%2B)
